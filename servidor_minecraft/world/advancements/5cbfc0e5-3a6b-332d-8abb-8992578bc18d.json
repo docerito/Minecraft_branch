@@ -549,6 +549,7 @@
     "criteria": {
       "minecraft:blaze": "2024-11-14 17:56:38 +0000",
       "minecraft:skeleton": "2024-11-08 07:13:30 +0000",
+      "minecraft:magma_cube": "2024-11-18 01:21:34 +0000",
       "minecraft:piglin_brute": "2024-11-11 17:24:18 +0000",
       "minecraft:spider": "2024-11-13 18:32:55 +0000",
       "minecraft:creeper": "2024-11-12 18:36:06 +0000",
@@ -800,6 +801,7 @@
   "vinery:main/crop_collector": {
     "criteria": {
       "vinery:jungle_grape_seeds_red": "2024-11-11 03:58:19 +0000",
+      "vinery:red_grape_seeds": "2024-11-20 03:23:23 +0000",
       "vinery:taiga_grape_seeds_white": "2024-11-13 05:22:06 +0000"
     },
     "done": false
@@ -1083,6 +1085,30 @@
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2024-11-14 18:26:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2024-11-19 18:15:09 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/craft_coffin": {
+    "criteria": {
+      "coffin": "2024-11-20 02:53:33 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2024-11-20 03:26:39 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2024-11-20 04:33:17 +0000"
     },
     "done": true
   },
